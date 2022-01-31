@@ -10,6 +10,8 @@ import { PropertyItemComponent } from './properties/property-list/property-item/
 import { LoginComponent } from './login/login.component';
 import { FooterComponent } from './footer/footer.component';
 import { ProfileComponent } from './profile/profile.component';
+import { BuyerComponent } from './buyer/buyer.component';
+import { SellerComponent } from './seller/seller.component';
 
 
 @NgModule({
@@ -23,6 +25,8 @@ import { ProfileComponent } from './profile/profile.component';
     LoginComponent,
     FooterComponent,
     ProfileComponent,
+    BuyerComponent,
+    SellerComponent,
    
   ],
   imports: [
