@@ -12,6 +12,7 @@ import { FooterComponent } from './footer/footer.component';
 import { ProfileComponent } from './profile/profile.component';
 import { BuyerComponent } from './buyer/buyer.component';
 import { SellerComponent } from './seller/seller.component';
+import { CarouselComponent } from './carousel/carousel.component';
 
 
 @NgModule({
@@ -27,6 +28,7 @@ import { SellerComponent } from './seller/seller.component';
     ProfileComponent,
     BuyerComponent,
     SellerComponent,
+    CarouselComponent,
    
   ],
   imports: [
