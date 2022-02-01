@@ -13,6 +13,8 @@ import { ProfileComponent } from './profile/profile.component';
 import { BuyerComponent } from './buyer/buyer.component';
 import { SellerComponent } from './seller/seller.component';
 import { CarouselComponent } from './carousel/carousel.component';
+import { ResgisterComponent } from './resgister/resgister.component';
+import { MiddlepageComponent } from './middlepage/middlepage.component';
 
 
 @NgModule({
@@ -29,6 +31,8 @@ import { CarouselComponent } from './carousel/carousel.component';
     BuyerComponent,
     SellerComponent,
     CarouselComponent,
+    ResgisterComponent,
+    MiddlepageComponent,
    
   ],
   imports: [
